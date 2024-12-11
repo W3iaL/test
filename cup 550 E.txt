@@ -1,11 +1,3 @@
-% Model:              scattering_nanosphere.mph
-% Version:            COMSOL 6.2.0.415
-% Date:               Dec 11 2024, 12:41
-% Dimension:          1
-% Nodes:              101
-% Expressions:        1
-% Description:        Radiation pattern
-% theta                   Far-field norm
 0                         1.1634726671858054E-6
 0.06283185307179587       1.1506503458505539E-6
 0.12566370614359174       1.1128534997173375E-6
